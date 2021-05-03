@@ -7,7 +7,7 @@ Live Link: https://tasnimahamed.github.io/Surah-player/
 +  CSS
 +  HTML
 
-### Click below & enjoy mindblowing recitation...
+### Click below & enjoy mind blowing recitation...
 [CLICK ME](shahinuralambhuiyan.github.io/surah-player/index.html)
 
 ## Let's take a look!
